@@ -1,0 +1,676 @@
+Run_Accession_Number,Dataset_Info_Dataset_Accession_Number,Sample_Accession_Number,Organism,Organ,Developmental_Stage,Cell_Type,Sequencer,Protocol,Assay_Type,Library_Layout,Ontology_Term,Cell_Cycle_Phase
+SRR2077088,GSE70245,SAMN03792848,"Mus musculus","Bone marrow",Adult,"Myeloid progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"CL:0000763 [Myeloid cell]",G2.M
+SRR2077089,GSE70245,SAMN03792849,"Mus musculus","Bone marrow",Adult,"Myeloid progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"CL:0000763 [Myeloid cell]",M.G1
+SRR2077090,GSE70245,SAMN03792850,"Mus musculus","Bone marrow",Adult,"Myeloid progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"CL:0000763 [Myeloid cell]",M.G1
+SRR2077091,GSE70245,SAMN03792851,"Mus musculus","Bone marrow",Adult,"Myeloid progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"CL:0000763 [Myeloid cell]",M.G1
+SRR2077092,GSE70245,SAMN03792852,"Mus musculus","Bone marrow",Adult,"Myeloid progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"CL:0000763 [Myeloid cell]",M.G1
+SRR2077093,GSE70245,SAMN03792853,"Mus musculus","Bone marrow",Adult,"Myeloid progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"CL:0000763 [Myeloid cell]",G2
+SRR2077094,GSE70245,SAMN03792854,"Mus musculus","Bone marrow",Adult,"Myeloid progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"CL:0000763 [Myeloid cell]",M.G1
+SRR2077095,GSE70245,SAMN03792855,"Mus musculus","Bone marrow",Adult,"Myeloid progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"CL:0000763 [Myeloid cell]",G2.M
+SRR2077096,GSE70245,SAMN03792856,"Mus musculus","Bone marrow",Adult,"Myeloid progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"CL:0000763 [Myeloid cell]",G1.S
+SRR2077097,GSE70245,SAMN03792857,"Mus musculus","Bone marrow",Adult,"Myeloid progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"CL:0000763 [Myeloid cell]",G2.M
+SRR2077098,GSE70245,SAMN03792858,"Mus musculus","Bone marrow",Adult,"Myeloid progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"CL:0000763 [Myeloid cell]",M.G1
+SRR2077099,GSE70245,SAMN03792859,"Mus musculus","Bone marrow",Adult,"Myeloid progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"CL:0000763 [Myeloid cell]",M.G1
+SRR2077100,GSE70245,SAMN03792860,"Mus musculus","Bone marrow",Adult,"Myeloid progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"CL:0000763 [Myeloid cell]",M.G1
+SRR2077101,GSE70245,SAMN03792861,"Mus musculus","Bone marrow",Adult,"Myeloid progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"CL:0000763 [Myeloid cell]",M.G1
+SRR2077102,GSE70245,SAMN03792862,"Mus musculus","Bone marrow",Adult,"Myeloid progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"CL:0000763 [Myeloid cell]",M.G1
+SRR2077103,GSE70245,SAMN03792863,"Mus musculus","Bone marrow",Adult,"Myeloid progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"CL:0000763 [Myeloid cell]",M.G1
+SRR2077104,GSE70245,SAMN03792864,"Mus musculus","Bone marrow",Adult,"Myeloid progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"CL:0000763 [Myeloid cell]",G2.M
+SRR2077105,GSE70245,SAMN03792865,"Mus musculus","Bone marrow",Adult,"Myeloid progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"CL:0000763 [Myeloid cell]",S
+SRR2077106,GSE70245,SAMN03792867,"Mus musculus","Bone marrow",Adult,"Myeloid progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"CL:0000763 [Myeloid cell]",M.G1
+SRR2077107,GSE70245,SAMN03792792,"Mus musculus","Bone marrow",Adult,"Myeloid progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"CL:0000763 [Myeloid cell]",G1.S
+SRR2077108,GSE70245,SAMN03792793,"Mus musculus","Bone marrow",Adult,"Myeloid progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"CL:0000763 [Myeloid cell]",G1.S
+SRR2077109,GSE70245,SAMN03792794,"Mus musculus","Bone marrow",Adult,"Myeloid progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"CL:0000763 [Myeloid cell]",M.G1
+SRR2077110,GSE70245,SAMN03792795,"Mus musculus","Bone marrow",Adult,"Myeloid progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"CL:0000763 [Myeloid cell]",G2.M
+SRR2077111,GSE70245,SAMN03792796,"Mus musculus","Bone marrow",Adult,"Myeloid progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"CL:0000763 [Myeloid cell]",G2.M
+SRR2077112,GSE70245,SAMN03792797,"Mus musculus","Bone marrow",Adult,"Myeloid progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"CL:0000763 [Myeloid cell]",M.G1
+SRR2077113,GSE70245,SAMN03792866,"Mus musculus","Bone marrow",Adult,"Myeloid progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"CL:0000763 [Myeloid cell]",G2.M
+SRR2077114,GSE70245,SAMN03792798,"Mus musculus","Bone marrow",Adult,"Myeloid progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"CL:0000763 [Myeloid cell]",G2.M
+SRR2077115,GSE70245,SAMN03792799,"Mus musculus","Bone marrow",Adult,"Myeloid progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"CL:0000763 [Myeloid cell]",M.G1
+SRR2077116,GSE70245,SAMN03792800,"Mus musculus","Bone marrow",Adult,"Myeloid progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"CL:0000763 [Myeloid cell]",G1.S
+SRR2077117,GSE70245,SAMN03792801,"Mus musculus","Bone marrow",Adult,"Myeloid progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"CL:0000763 [Myeloid cell]",M.G1
+SRR2077118,GSE70245,SAMN03792802,"Mus musculus","Bone marrow",Adult,"Myeloid progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"CL:0000763 [Myeloid cell]",M.G1
+SRR2077119,GSE70245,SAMN03792804,"Mus musculus","Bone marrow",Adult,"Myeloid progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"CL:0000763 [Myeloid cell]",G2.M
+SRR2077120,GSE70245,SAMN03792805,"Mus musculus","Bone marrow",Adult,"Myeloid progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"CL:0000763 [Myeloid cell]",G2.M
+SRR2077121,GSE70245,SAMN03792806,"Mus musculus","Bone marrow",Adult,"Myeloid progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"CL:0000763 [Myeloid cell]",G2.M
+SRR2077122,GSE70245,SAMN03792807,"Mus musculus","Bone marrow",Adult,"Myeloid progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"CL:0000763 [Myeloid cell]",G2.M
+SRR2077123,GSE70245,SAMN03792808,"Mus musculus","Bone marrow",Adult,"Myeloid progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"CL:0000763 [Myeloid cell]",M.G1
+SRR2077124,GSE70245,SAMN03792809,"Mus musculus","Bone marrow",Adult,"Myeloid progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"CL:0000763 [Myeloid cell]",M.G1
+SRR2077125,GSE70245,SAMN03792810,"Mus musculus","Bone marrow",Adult,"Myeloid progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"CL:0000763 [Myeloid cell]",M.G1
+SRR2077126,GSE70245,SAMN03792811,"Mus musculus","Bone marrow",Adult,"Myeloid progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"CL:0000763 [Myeloid cell]",M.G1
+SRR2077127,GSE70245,SAMN03792812,"Mus musculus","Bone marrow",Adult,"Myeloid progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"CL:0000763 [Myeloid cell]",G2.M
+SRR2077128,GSE70245,SAMN03792813,"Mus musculus","Bone marrow",Adult,"Myeloid progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"CL:0000763 [Myeloid cell]",S
+SRR2077129,GSE70245,SAMN03792814,"Mus musculus","Bone marrow",Adult,"Myeloid progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"CL:0000763 [Myeloid cell]",S
+SRR2077130,GSE70245,SAMN03792815,"Mus musculus","Bone marrow",Adult,"Myeloid progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"CL:0000763 [Myeloid cell]",S
+SRR2077131,GSE70245,SAMN03792816,"Mus musculus","Bone marrow",Adult,"Myeloid progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"CL:0000763 [Myeloid cell]",G2.M
+SRR2077132,GSE70245,SAMN03792817,"Mus musculus","Bone marrow",Adult,"Myeloid progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"CL:0000763 [Myeloid cell]",G2.M
+SRR2077133,GSE70245,SAMN03792818,"Mus musculus","Bone marrow",Adult,"Myeloid progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"CL:0000763 [Myeloid cell]",M.G1
+SRR2077134,GSE70245,SAMN03792819,"Mus musculus","Bone marrow",Adult,"Myeloid progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"CL:0000763 [Myeloid cell]",M.G1
+SRR2077135,GSE70245,SAMN03792820,"Mus musculus","Bone marrow",Adult,"Myeloid progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"CL:0000763 [Myeloid cell]",M.G1
+SRR2077136,GSE70245,SAMN03792821,"Mus musculus","Bone marrow",Adult,"Myeloid progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"CL:0000763 [Myeloid cell]",G1.S
+SRR2077137,GSE70245,SAMN03792822,"Mus musculus","Bone marrow",Adult,"Myeloid progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"CL:0000763 [Myeloid cell]",G2.M
+SRR2077138,GSE70245,SAMN03792823,"Mus musculus","Bone marrow",Adult,"Myeloid progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"CL:0000763 [Myeloid cell]",S
+SRR2077139,GSE70245,SAMN03792824,"Mus musculus","Bone marrow",Adult,"Myeloid progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"CL:0000763 [Myeloid cell]",G2.M
+SRR2077140,GSE70245,SAMN03792825,"Mus musculus","Bone marrow",Adult,"Myeloid progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"CL:0000763 [Myeloid cell]",G1.S
+SRR2077141,GSE70245,SAMN03792826,"Mus musculus","Bone marrow",Adult,"Myeloid progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"CL:0000763 [Myeloid cell]",S
+SRR2077142,GSE70245,SAMN03792827,"Mus musculus","Bone marrow",Adult,"Myeloid progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"CL:0000763 [Myeloid cell]",M.G1
+SRR2077143,GSE70245,SAMN03792828,"Mus musculus","Bone marrow",Adult,"Myeloid progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"CL:0000763 [Myeloid cell]",G2.M
+SRR2077144,GSE70245,SAMN03792829,"Mus musculus","Bone marrow",Adult,"Myeloid progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"CL:0000763 [Myeloid cell]",M.G1
+SRR2077145,GSE70245,SAMN03792830,"Mus musculus","Bone marrow",Adult,"Myeloid progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"CL:0000763 [Myeloid cell]",M.G1
+SRR2077146,GSE70245,SAMN03792831,"Mus musculus","Bone marrow",Adult,"Myeloid progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"CL:0000763 [Myeloid cell]",G2.M
+SRR2077147,GSE70245,SAMN03792832,"Mus musculus","Bone marrow",Adult,"Myeloid progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"CL:0000763 [Myeloid cell]",M.G1
+SRR2077148,GSE70245,SAMN03792833,"Mus musculus","Bone marrow",Adult,"Myeloid progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"CL:0000763 [Myeloid cell]",S
+SRR2077149,GSE70245,SAMN03792834,"Mus musculus","Bone marrow",Adult,"Myeloid progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"CL:0000763 [Myeloid cell]",G2.M
+SRR2077150,GSE70245,SAMN03792835,"Mus musculus","Bone marrow",Adult,"Myeloid progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"CL:0000763 [Myeloid cell]",M.G1
+SRR2077151,GSE70245,SAMN03792836,"Mus musculus","Bone marrow",Adult,"Myeloid progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"CL:0000763 [Myeloid cell]",G2.M
+SRR2077152,GSE70245,SAMN03792837,"Mus musculus","Bone marrow",Adult,"Myeloid progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"CL:0000763 [Myeloid cell]",G1.S
+SRR2077153,GSE70245,SAMN03792838,"Mus musculus","Bone marrow",Adult,"Myeloid progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"CL:0000763 [Myeloid cell]",M.G1
+SRR2077154,GSE70245,SAMN03792955,"Mus musculus","Bone marrow",Adult,"LSK Stem cells","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"CL:0000763 [Myeloid cell]",G1.S
+SRR2077155,GSE70245,SAMN03792956,"Mus musculus","Bone marrow",Adult,"LSK Stem cells","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"CL:0000763 [Myeloid cell]",G1.S
+SRR2077156,GSE70245,SAMN03792957,"Mus musculus","Bone marrow",Adult,"LSK Stem cells","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"CL:0000763 [Myeloid cell]",M.G1
+SRR2077157,GSE70245,SAMN03792958,"Mus musculus","Bone marrow",Adult,"LSK Stem cells","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"CL:0000763 [Myeloid cell]",M.G1
+SRR2077158,GSE70245,SAMN03792959,"Mus musculus","Bone marrow",Adult,"LSK Stem cells","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"CL:0000763 [Myeloid cell]",G1.S
+SRR2077159,GSE70245,SAMN03792960,"Mus musculus","Bone marrow",Adult,"LSK Stem cells","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"CL:0000763 [Myeloid cell]",G1.S
+SRR2077160,GSE70245,SAMN03792961,"Mus musculus","Bone marrow",Adult,"LSK Stem cells","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"CL:0000763 [Myeloid cell]",S
+SRR2077161,GSE70245,SAMN03792962,"Mus musculus","Bone marrow",Adult,"LSK Stem cells","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"CL:0000763 [Myeloid cell]",S
+SRR2077162,GSE70245,SAMN03792963,"Mus musculus","Bone marrow",Adult,"LSK Stem cells","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"CL:0000763 [Myeloid cell]",M.G1
+SRR2077163,GSE70245,SAMN03792964,"Mus musculus","Bone marrow",Adult,"LSK Stem cells","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"CL:0000763 [Myeloid cell]",G1.S
+SRR2077164,GSE70245,SAMN03792965,"Mus musculus","Bone marrow",Adult,"LSK Stem cells","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"CL:0000763 [Myeloid cell]",G2.M
+SRR2077165,GSE70245,SAMN03792896,"Mus musculus","Bone marrow",Adult,"LSK Stem cells","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"CL:0000763 [Myeloid cell]",M.G1
+SRR2077166,GSE70245,SAMN03792897,"Mus musculus","Bone marrow",Adult,"LSK Stem cells","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"CL:0000763 [Myeloid cell]",G1.S
+SRR2077167,GSE70245,SAMN03792898,"Mus musculus","Bone marrow",Adult,"LSK Stem cells","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"CL:0000763 [Myeloid cell]",G1.S
+SRR2077168,GSE70245,SAMN03792899,"Mus musculus","Bone marrow",Adult,"LSK Stem cells","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"CL:0000763 [Myeloid cell]",M.G1
+SRR2077169,GSE70245,SAMN03792900,"Mus musculus","Bone marrow",Adult,"LSK Stem cells","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"CL:0000763 [Myeloid cell]",G2.M
+SRR2077170,GSE70245,SAMN03792901,"Mus musculus","Bone marrow",Adult,"LSK Stem cells","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"CL:0000763 [Myeloid cell]",M.G1
+SRR2077171,GSE70245,SAMN03792902,"Mus musculus","Bone marrow",Adult,"LSK Stem cells","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"CL:0000763 [Myeloid cell]",G2.M
+SRR2077172,GSE70245,SAMN03792903,"Mus musculus","Bone marrow",Adult,"LSK Stem cells","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"CL:0000763 [Myeloid cell]",G1.S
+SRR2077173,GSE70245,SAMN03792904,"Mus musculus","Bone marrow",Adult,"LSK Stem cells","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"CL:0000763 [Myeloid cell]",M.G1
+SRR2077174,GSE70245,SAMN03792905,"Mus musculus","Bone marrow",Adult,"LSK Stem cells","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"CL:0000763 [Myeloid cell]",M.G1
+SRR2077175,GSE70245,SAMN03792906,"Mus musculus","Bone marrow",Adult,"LSK Stem cells","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"CL:0000763 [Myeloid cell]",M.G1
+SRR2077176,GSE70245,SAMN03792907,"Mus musculus","Bone marrow",Adult,"LSK Stem cells","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"CL:0000763 [Myeloid cell]",G1.S
+SRR2077177,GSE70245,SAMN03792908,"Mus musculus","Bone marrow",Adult,"LSK Stem cells","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"CL:0000763 [Myeloid cell]",M.G1
+SRR2077178,GSE70245,SAMN03792968,"Mus musculus","Bone marrow",Adult,"LSK Stem cells","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"CL:0000763 [Myeloid cell]",G1.S
+SRR2077179,GSE70245,SAMN03792909,"Mus musculus","Bone marrow",Adult,"LSK Stem cells","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"CL:0000763 [Myeloid cell]",S
+SRR2077180,GSE70245,SAMN03792910,"Mus musculus","Bone marrow",Adult,"LSK Stem cells","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"CL:0000763 [Myeloid cell]",S
+SRR2077181,GSE70245,SAMN03792911,"Mus musculus","Bone marrow",Adult,"LSK Stem cells","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"CL:0000763 [Myeloid cell]",G2
+SRR2077182,GSE70245,SAMN03792912,"Mus musculus","Bone marrow",Adult,"LSK Stem cells","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"CL:0000763 [Myeloid cell]",M.G1
+SRR2077183,GSE70245,SAMN03792913,"Mus musculus","Bone marrow",Adult,"LSK Stem cells","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"CL:0000763 [Myeloid cell]",M.G1
+SRR2077184,GSE70245,SAMN03792914,"Mus musculus","Bone marrow",Adult,"LSK Stem cells","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"CL:0000763 [Myeloid cell]",M.G1
+SRR2077185,GSE70245,SAMN03792915,"Mus musculus","Bone marrow",Adult,"LSK Stem cells","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"CL:0000763 [Myeloid cell]",S
+SRR2077186,GSE70245,SAMN03792916,"Mus musculus","Bone marrow",Adult,"LSK Stem cells","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"CL:0000763 [Myeloid cell]",M.G1
+SRR2077187,GSE70245,SAMN03792917,"Mus musculus","Bone marrow",Adult,"LSK Stem cells","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"CL:0000763 [Myeloid cell]",S
+SRR2077188,GSE70245,SAMN03792919,"Mus musculus","Bone marrow",Adult,"LSK Stem cells","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"CL:0000763 [Myeloid cell]",M.G1
+SRR2077189,GSE70245,SAMN03792920,"Mus musculus","Bone marrow",Adult,"LSK Stem cells","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"CL:0000763 [Myeloid cell]",S
+SRR2077190,GSE70245,SAMN03792921,"Mus musculus","Bone marrow",Adult,"LSK Stem cells","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"CL:0000763 [Myeloid cell]",G1.S
+SRR2077191,GSE70245,SAMN03792922,"Mus musculus","Bone marrow",Adult,"LSK Stem cells","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"CL:0000763 [Myeloid cell]",G1.S
+SRR2077192,GSE70245,SAMN03792918,"Mus musculus","Bone marrow",Adult,"LSK Stem cells","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"CL:0000763 [Myeloid cell]",S
+SRR2077193,GSE70245,SAMN03792923,"Mus musculus","Bone marrow",Adult,"LSK Stem cells","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"CL:0000763 [Myeloid cell]",M.G1
+SRR2077194,GSE70245,SAMN03792924,"Mus musculus","Bone marrow",Adult,"LSK Stem cells","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"CL:0000763 [Myeloid cell]",G1.S
+SRR2077195,GSE70245,SAMN03792925,"Mus musculus","Bone marrow",Adult,"LSK Stem cells","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"CL:0000763 [Myeloid cell]",G1.S
+SRR2077196,GSE70245,SAMN03792952,"Mus musculus","Bone marrow",Adult,"LSK Stem cells","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"CL:0000763 [Myeloid cell]",G1.S
+SRR2077197,GSE70245,SAMN03792953,"Mus musculus","Bone marrow",Adult,"LSK Stem cells","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"CL:0000763 [Myeloid cell]",M.G1
+SRR2077198,GSE70245,SAMN03792954,"Mus musculus","Bone marrow",Adult,"LSK Stem cells","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"CL:0000763 [Myeloid cell]",G1.S
+SRR2077199,GSE70245,SAMN03792926,"Mus musculus","Bone marrow",Adult,"LSK Stem cells","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"CL:0000763 [Myeloid cell]",G1.S
+SRR2077200,GSE70245,SAMN03792927,"Mus musculus","Bone marrow",Adult,"LSK Stem cells","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"CL:0000763 [Myeloid cell]",G1.S
+SRR2077201,GSE70245,SAMN03792928,"Mus musculus","Bone marrow",Adult,"LSK Stem cells","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"CL:0000763 [Myeloid cell]",M.G1
+SRR2077202,GSE70245,SAMN03792929,"Mus musculus","Bone marrow",Adult,"LSK Stem cells","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"CL:0000763 [Myeloid cell]",G1.S
+SRR2077203,GSE70245,SAMN03792930,"Mus musculus","Bone marrow",Adult,"LSK Stem cells","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"CL:0000763 [Myeloid cell]",G1.S
+SRR2077204,GSE70245,SAMN03792931,"Mus musculus","Bone marrow",Adult,"LSK Stem cells","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"CL:0000763 [Myeloid cell]",M.G1
+SRR2077205,GSE70245,SAMN03792932,"Mus musculus","Bone marrow",Adult,"LSK Stem cells","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"CL:0000763 [Myeloid cell]",G2
+SRR2077206,GSE70245,SAMN03792933,"Mus musculus","Bone marrow",Adult,"LSK Stem cells","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"CL:0000763 [Myeloid cell]",G1.S
+SRR2077207,GSE70245,SAMN03792934,"Mus musculus","Bone marrow",Adult,"LSK Stem cells","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"CL:0000763 [Myeloid cell]",M.G1
+SRR2077208,GSE70245,SAMN03792935,"Mus musculus","Bone marrow",Adult,"LSK Stem cells","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"CL:0000763 [Myeloid cell]",M.G1
+SRR2077209,GSE70245,SAMN03792936,"Mus musculus","Bone marrow",Adult,"LSK Stem cells","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"CL:0000763 [Myeloid cell]",S
+SRR2077210,GSE70245,SAMN03792937,"Mus musculus","Bone marrow",Adult,"LSK Stem cells","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"CL:0000763 [Myeloid cell]",S
+SRR2077211,GSE70245,SAMN03792938,"Mus musculus","Bone marrow",Adult,"LSK Stem cells","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"CL:0000763 [Myeloid cell]",S
+SRR2077212,GSE70245,SAMN03792939,"Mus musculus","Bone marrow",Adult,"LSK Stem cells","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"CL:0000763 [Myeloid cell]",S
+SRR2077213,GSE70245,SAMN03792940,"Mus musculus","Bone marrow",Adult,"LSK Stem cells","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"CL:0000763 [Myeloid cell]",M.G1
+SRR2077214,GSE70245,SAMN03792941,"Mus musculus","Bone marrow",Adult,"LSK Stem cells","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"CL:0000763 [Myeloid cell]",M.G1
+SRR2077215,GSE70245,SAMN03792942,"Mus musculus","Bone marrow",Adult,"LSK Stem cells","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"CL:0000763 [Myeloid cell]",G2.M
+SRR2077216,GSE70245,SAMN03792943,"Mus musculus","Bone marrow",Adult,"LSK Stem cells","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"CL:0000763 [Myeloid cell]",S
+SRR2077217,GSE70245,SAMN03792944,"Mus musculus","Bone marrow",Adult,"LSK Stem cells","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"CL:0000763 [Myeloid cell]",M.G1
+SRR2077218,GSE70245,SAMN03792945,"Mus musculus","Bone marrow",Adult,"LSK Stem cells","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"CL:0000763 [Myeloid cell]",G2.M
+SRR2077219,GSE70245,SAMN03792946,"Mus musculus","Bone marrow",Adult,"LSK Stem cells","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"CL:0000763 [Myeloid cell]",G1.S
+SRR2077220,GSE70245,SAMN03792947,"Mus musculus","Bone marrow",Adult,"LSK Stem cells","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"CL:0000763 [Myeloid cell]",G2
+SRR2077221,GSE70245,SAMN03792948,"Mus musculus","Bone marrow",Adult,"LSK Stem cells","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"CL:0000763 [Myeloid cell]",S
+SRR2077222,GSE70245,SAMN03792949,"Mus musculus","Bone marrow",Adult,"LSK Stem cells","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"CL:0000763 [Myeloid cell]",G1.S
+SRR2077223,GSE70245,SAMN03792950,"Mus musculus","Bone marrow",Adult,"LSK Stem cells","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"CL:0000763 [Myeloid cell]",S
+SRR2077224,GSE70245,SAMN03792951,"Mus musculus","Bone marrow",Adult,"LSK Stem cells","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"CL:0000763 [Myeloid cell]",M.G1
+SRR2077225,GSE70245,SAMN03792870,"Mus musculus","Bone marrow",Adult,"LSK Stem cells","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"CL:0000763 [Myeloid cell]",G1.S
+SRR2077226,GSE70245,SAMN03792871,"Mus musculus","Bone marrow",Adult,"LSK Stem cells","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"CL:0000763 [Myeloid cell]",M.G1
+SRR2077227,GSE70245,SAMN03792872,"Mus musculus","Bone marrow",Adult,"LSK Stem cells","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"CL:0000763 [Myeloid cell]",G2.M
+SRR2077228,GSE70245,SAMN03792873,"Mus musculus","Bone marrow",Adult,"LSK Stem cells","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"CL:0000763 [Myeloid cell]",M.G1
+SRR2077229,GSE70245,SAMN03792874,"Mus musculus","Bone marrow",Adult,"LSK Stem cells","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"CL:0000763 [Myeloid cell]",G2
+SRR2077230,GSE70245,SAMN03792875,"Mus musculus","Bone marrow",Adult,"LSK Stem cells","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"CL:0000763 [Myeloid cell]",G2
+SRR2077231,GSE70245,SAMN03792877,"Mus musculus","Bone marrow",Adult,"LSK Stem cells","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"CL:0000763 [Myeloid cell]",M.G1
+SRR2077232,GSE70245,SAMN03792878,"Mus musculus","Bone marrow",Adult,"LSK Stem cells","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"CL:0000763 [Myeloid cell]",G2
+SRR2077233,GSE70245,SAMN03792879,"Mus musculus","Bone marrow",Adult,"LSK Stem cells","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"CL:0000763 [Myeloid cell]",G2.M
+SRR2077234,GSE70245,SAMN03792880,"Mus musculus","Bone marrow",Adult,"LSK Stem cells","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"CL:0000763 [Myeloid cell]",G1.S
+SRR2077235,GSE70245,SAMN03792881,"Mus musculus","Bone marrow",Adult,"LSK Stem cells","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"CL:0000763 [Myeloid cell]",G1.S
+SRR2077236,GSE70245,SAMN03792882,"Mus musculus","Bone marrow",Adult,"LSK Stem cells","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"CL:0000763 [Myeloid cell]",M.G1
+SRR2077237,GSE70245,SAMN03792883,"Mus musculus","Bone marrow",Adult,"LSK Stem cells","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"CL:0000763 [Myeloid cell]",M.G1
+SRR2077238,GSE70245,SAMN03792884,"Mus musculus","Bone marrow",Adult,"LSK Stem cells","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"CL:0000763 [Myeloid cell]",S
+SRR2077239,GSE70245,SAMN03792885,"Mus musculus","Bone marrow",Adult,"LSK Stem cells","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"CL:0000763 [Myeloid cell]",G1.S
+SRR2077240,GSE70245,SAMN03792886,"Mus musculus","Bone marrow",Adult,"LSK Stem cells","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"CL:0000763 [Myeloid cell]",M.G1
+SRR2077241,GSE70245,SAMN03792887,"Mus musculus","Bone marrow",Adult,"LSK Stem cells","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"CL:0000763 [Myeloid cell]",M.G1
+SRR2077242,GSE70245,SAMN03792888,"Mus musculus","Bone marrow",Adult,"LSK Stem cells","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"CL:0000763 [Myeloid cell]",M.G1
+SRR2077243,GSE70245,SAMN03792889,"Mus musculus","Bone marrow",Adult,"LSK Stem cells","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"CL:0000763 [Myeloid cell]",G1.S
+SRR2077244,GSE70245,SAMN03792890,"Mus musculus","Bone marrow",Adult,"LSK Stem cells","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"CL:0000763 [Myeloid cell]",G1.S
+SRR2077245,GSE70245,SAMN03792891,"Mus musculus","Bone marrow",Adult,"LSK Stem cells","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"CL:0000763 [Myeloid cell]",G2
+SRR2077246,GSE70245,SAMN03792892,"Mus musculus","Bone marrow",Adult,"LSK Stem cells","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"CL:0000763 [Myeloid cell]",G1.S
+SRR2077247,GSE70245,SAMN03792893,"Mus musculus","Bone marrow",Adult,"LSK Stem cells","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"CL:0000763 [Myeloid cell]",S
+SRR2077248,GSE70245,SAMN03792894,"Mus musculus","Bone marrow",Adult,"LSK Stem cells","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"CL:0000763 [Myeloid cell]",G1.S
+SRR2077249,GSE70245,SAMN03792895,"Mus musculus","Bone marrow",Adult,"LSK Stem cells","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"CL:0000763 [Myeloid cell]",S
+SRR2077263,GSE70245,SAMN03792431,"Mus musculus","Bone marrow",Adult,"Gfi1-GFP dim Csf1r- GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G1.S
+SRR2077264,GSE70245,SAMN03792432,"Mus musculus","Bone marrow",Adult,"Gfi1-GFP dim Csf1r- GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G2
+SRR2077265,GSE70245,SAMN03792433,"Mus musculus","Bone marrow",Adult,"Gfi1-GFP dim Csf1r- GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",M.G1
+SRR2077266,GSE70245,SAMN03792434,"Mus musculus","Bone marrow",Adult,"Gfi1-GFP dim Csf1r- GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G2
+SRR2077267,GSE70245,SAMN03792435,"Mus musculus","Bone marrow",Adult,"Gfi1-GFP dim Csf1r- GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",S
+SRR2077268,GSE70245,SAMN03792436,"Mus musculus","Bone marrow",Adult,"Gfi1-GFP dim Csf1r- GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",S
+SRR2077269,GSE70245,SAMN03792437,"Mus musculus","Bone marrow",Adult,"Gfi1-GFP dim Csf1r- GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",S
+SRR2077270,GSE70245,SAMN03792438,"Mus musculus","Bone marrow",Adult,"Gfi1-GFP dim Csf1r- GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",M.G1
+SRR2077271,GSE70245,SAMN03792439,"Mus musculus","Bone marrow",Adult,"Gfi1-GFP dim Csf1r- GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",S
+SRR2077272,GSE70245,SAMN03792440,"Mus musculus","Bone marrow",Adult,"Gfi1-GFP dim Csf1r- GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G2.M
+SRR2077273,GSE70245,SAMN03792441,"Mus musculus","Bone marrow",Adult,"Gfi1-GFP dim Csf1r- GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",M.G1
+SRR2077274,GSE70245,SAMN03792442,"Mus musculus","Bone marrow",Adult,"Gfi1-GFP dim Csf1r- GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",S
+SRR2077275,GSE70245,SAMN03792443,"Mus musculus","Bone marrow",Adult,"Gfi1-GFP dim Csf1r- GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",M.G1
+SRR2077276,GSE70245,SAMN03792444,"Mus musculus","Bone marrow",Adult,"Gfi1-GFP dim Csf1r- GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",M.G1
+SRR2077277,GSE70245,SAMN03792445,"Mus musculus","Bone marrow",Adult,"Gfi1-GFP dim Csf1r- GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",S
+SRR2077278,GSE70245,SAMN03792446,"Mus musculus","Bone marrow",Adult,"Gfi1-GFP dim Csf1r- GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",M.G1
+SRR2077279,GSE70245,SAMN03792447,"Mus musculus","Bone marrow",Adult,"Gfi1-GFP dim Csf1r- GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",S
+SRR2077280,GSE70245,SAMN03792448,"Mus musculus","Bone marrow",Adult,"Gfi1-GFP dim Csf1r- GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",M.G1
+SRR2077281,GSE70245,SAMN03792449,"Mus musculus","Bone marrow",Adult,"Gfi1-GFP dim Csf1r- GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G2.M
+SRR2077282,GSE70245,SAMN03792450,"Mus musculus","Bone marrow",Adult,"Gfi1-GFP dim Csf1r- GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",S
+SRR2077283,GSE70245,SAMN03792451,"Mus musculus","Bone marrow",Adult,"Gfi1-GFP dim Csf1r- GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",S
+SRR2077284,GSE70245,SAMN03792452,"Mus musculus","Bone marrow",Adult,"Gfi1-GFP dim Csf1r- GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G1.S
+SRR2077285,GSE70245,SAMN03792494,"Mus musculus","Bone marrow",Adult,"Gfi1-GFP dim Csf1r- GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",S
+SRR2077286,GSE70245,SAMN03792495,"Mus musculus","Bone marrow",Adult,"Gfi1-GFP dim Csf1r- GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G1.S
+SRR2077287,GSE70245,SAMN03792496,"Mus musculus","Bone marrow",Adult,"Gfi1-GFP dim Csf1r- GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",M.G1
+SRR2077288,GSE70245,SAMN03792505,"Mus musculus","Bone marrow",Adult,"Gfi1-GFP dim Csf1r- GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",S
+SRR2077289,GSE70245,SAMN03792497,"Mus musculus","Bone marrow",Adult,"Gfi1-GFP dim Csf1r- GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",S
+SRR2077290,GSE70245,SAMN03792498,"Mus musculus","Bone marrow",Adult,"Gfi1-GFP dim Csf1r- GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G2
+SRR2077291,GSE70245,SAMN03792499,"Mus musculus","Bone marrow",Adult,"Gfi1-GFP dim Csf1r- GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",S
+SRR2077292,GSE70245,SAMN03792500,"Mus musculus","Bone marrow",Adult,"Gfi1-GFP dim Csf1r- GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G1.S
+SRR2077293,GSE70245,SAMN03792501,"Mus musculus","Bone marrow",Adult,"Gfi1-GFP dim Csf1r- GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",M.G1
+SRR2077294,GSE70245,SAMN03792502,"Mus musculus","Bone marrow",Adult,"Gfi1-GFP dim Csf1r- GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",M.G1
+SRR2077295,GSE70245,SAMN03792503,"Mus musculus","Bone marrow",Adult,"Gfi1-GFP dim Csf1r- GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",M.G1
+SRR2077296,GSE70245,SAMN03792504,"Mus musculus","Bone marrow",Adult,"Gfi1-GFP dim Csf1r- GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",M.G1
+SRR2077297,GSE70245,SAMN03792506,"Mus musculus","Bone marrow",Adult,"Gfi1-GFP dim Csf1r- GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",S
+SRR2077298,GSE70245,SAMN03792507,"Mus musculus","Bone marrow",Adult,"Gfi1-GFP dim Csf1r- GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",S
+SRR2077299,GSE70245,SAMN03792508,"Mus musculus","Bone marrow",Adult,"Gfi1-GFP dim Csf1r- GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G2
+SRR2077300,GSE70245,SAMN03792509,"Mus musculus","Bone marrow",Adult,"Gfi1-GFP dim Csf1r- GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",M.G1
+SRR2077301,GSE70245,SAMN03792510,"Mus musculus","Bone marrow",Adult,"Gfi1-GFP dim Csf1r- GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",S
+SRR2077302,GSE70245,SAMN03792511,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",M.G1
+SRR2077303,GSE70245,SAMN03792512,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G1.S
+SRR2077304,GSE70245,SAMN03792513,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",S
+SRR2077305,GSE70245,SAMN03792514,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G1.S
+SRR2077306,GSE70245,SAMN03792515,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G1.S
+SRR2077307,GSE70245,SAMN03792516,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",M.G1
+SRR2077308,GSE70245,SAMN03792517,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",S
+SRR2077309,GSE70245,SAMN03792518,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G1.S
+SRR2077310,GSE70245,SAMN03792519,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",S
+SRR2077311,GSE70245,SAMN03792520,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G2.M
+SRR2077312,GSE70245,SAMN03792521,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",M.G1
+SRR2077313,GSE70245,SAMN03792543,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G2.M
+SRR2077314,GSE70245,SAMN03792544,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G1.S
+SRR2077315,GSE70245,SAMN03792545,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G2.M
+SRR2077316,GSE70245,SAMN03792546,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",S
+SRR2077317,GSE70245,SAMN03792547,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",M.G1
+SRR2077318,GSE70245,SAMN03792548,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",M.G1
+SRR2077319,GSE70245,SAMN03792549,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G2.M
+SRR2077320,GSE70245,SAMN03792535,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G2.M
+SRR2077321,GSE70245,SAMN03792536,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",S
+SRR2077322,GSE70245,SAMN03792537,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G1.S
+SRR2077323,GSE70245,SAMN03792538,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",S
+SRR2077324,GSE70245,SAMN03792539,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",M.G1
+SRR2077325,GSE70245,SAMN03792540,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",S
+SRR2077326,GSE70245,SAMN03792541,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",M.G1
+SRR2077327,GSE70245,SAMN03792542,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",S
+SRR2077328,GSE70245,SAMN03792525,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",M.G1
+SRR2077329,GSE70245,SAMN03792526,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G1.S
+SRR2077330,GSE70245,SAMN03792527,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G1.S
+SRR2077331,GSE70245,SAMN03792528,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G1.S
+SRR2077332,GSE70245,SAMN03792529,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",M.G1
+SRR2077333,GSE70245,SAMN03792530,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",M.G1
+SRR2077334,GSE70245,SAMN03792522,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",S
+SRR2077335,GSE70245,SAMN03792523,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G1.S
+SRR2077336,GSE70245,SAMN03792524,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",S
+SRR2077337,GSE70245,SAMN03792531,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G1.S
+SRR2077338,GSE70245,SAMN03792532,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G1.S
+SRR2077339,GSE70245,SAMN03792533,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G2.M
+SRR2077340,GSE70245,SAMN03792534,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",S
+SRR2077341,GSE70245,SAMN03792470,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",M.G1
+SRR2077342,GSE70245,SAMN03792480,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",S
+SRR2077343,GSE70245,SAMN03792481,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",M.G1
+SRR2077344,GSE70245,SAMN03792482,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G1.S
+SRR2077345,GSE70245,SAMN03792483,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",M.G1
+SRR2077346,GSE70245,SAMN03792484,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",M.G1
+SRR2077347,GSE70245,SAMN03792485,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",S
+SRR2077348,GSE70245,SAMN03792486,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",M.G1
+SRR2077349,GSE70245,SAMN03792487,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",S
+SRR2077350,GSE70245,SAMN03792488,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",S
+SRR2077351,GSE70245,SAMN03792489,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",M.G1
+SRR2077352,GSE70245,SAMN03792490,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",S
+SRR2077353,GSE70245,SAMN03792491,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G2
+SRR2077354,GSE70245,SAMN03792492,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",S
+SRR2077355,GSE70245,SAMN03792493,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G1.S
+SRR2077356,GSE70245,SAMN03792471,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",S
+SRR2077357,GSE70245,SAMN03792472,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G2.M
+SRR2077358,GSE70245,SAMN03792473,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",M.G1
+SRR2077359,GSE70245,SAMN03792474,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",M.G1
+SRR2077360,GSE70245,SAMN03792456,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",M.G1
+SRR2077361,GSE70245,SAMN03792455,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G1.S
+SRR2077362,GSE70245,SAMN03792457,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",M.G1
+SRR2077363,GSE70245,SAMN03792475,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G1.S
+SRR2077364,GSE70245,SAMN03792476,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",M.G1
+SRR2077365,GSE70245,SAMN03792477,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G1.S
+SRR2077366,GSE70245,SAMN03792478,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",M.G1
+SRR2077367,GSE70245,SAMN03792479,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",S
+SRR2077368,GSE70245,SAMN03792454,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G2.M
+SRR2077369,GSE70245,SAMN03792458,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",M.G1
+SRR2077370,GSE70245,SAMN03792459,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",M.G1
+SRR2077371,GSE70245,SAMN03792460,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",M.G1
+SRR2077372,GSE70245,SAMN03792461,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",M.G1
+SRR2077373,GSE70245,SAMN03792462,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G2.M
+SRR2077374,GSE70245,SAMN03792463,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",S
+SRR2077375,GSE70245,SAMN03792464,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G1.S
+SRR2077376,GSE70245,SAMN03792465,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",M.G1
+SRR2077377,GSE70245,SAMN03792466,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",S
+SRR2077378,GSE70245,SAMN03792467,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",M.G1
+SRR2077379,GSE70245,SAMN03792468,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G1.S
+SRR2077380,GSE70245,SAMN03792469,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G2
+SRR2077381,GSE70245,SAMN03792453,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",S
+SRR2077409,GSE70245,SAMN03792583,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G2.M
+SRR2077410,GSE70245,SAMN03792584,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",M.G1
+SRR2077411,GSE70245,SAMN03792585,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",M.G1
+SRR2077412,GSE70245,SAMN03792586,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G1.S
+SRR2077413,GSE70245,SAMN03792587,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G2.M
+SRR2077414,GSE70245,SAMN03792588,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G2
+SRR2077415,GSE70245,SAMN03792589,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",M.G1
+SRR2077416,GSE70245,SAMN03792590,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",S
+SRR2077417,GSE70245,SAMN03792591,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",M.G1
+SRR2077418,GSE70245,SAMN03792592,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G2
+SRR2077419,GSE70245,SAMN03792593,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G1.S
+SRR2077420,GSE70245,SAMN03792594,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G2.M
+SRR2077421,GSE70245,SAMN03792595,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",M.G1
+SRR2077422,GSE70245,SAMN03792596,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G2.M
+SRR2077423,GSE70245,SAMN03792597,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",M.G1
+SRR2077424,GSE70245,SAMN03792598,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G1.S
+SRR2077425,GSE70245,SAMN03792599,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G1.S
+SRR2077426,GSE70245,SAMN03792600,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G1.S
+SRR2077427,GSE70245,SAMN03792601,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",M.G1
+SRR2077428,GSE70245,SAMN03792602,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G2.M
+SRR2077429,GSE70245,SAMN03792603,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G2.M
+SRR2077430,GSE70245,SAMN03792604,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",M.G1
+SRR2077431,GSE70245,SAMN03792605,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",S
+SRR2077432,GSE70245,SAMN03792606,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G1.S
+SRR2077433,GSE70245,SAMN03792607,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G2
+SRR2077434,GSE70245,SAMN03792608,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G2
+SRR2077435,GSE70245,SAMN03792609,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G2
+SRR2077436,GSE70245,SAMN03792611,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G1.S
+SRR2077437,GSE70245,SAMN03792612,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G1.S
+SRR2077438,GSE70245,SAMN03792613,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G1.S
+SRR2077439,GSE70245,SAMN03792614,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G1.S
+SRR2077440,GSE70245,SAMN03792615,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G2.M
+SRR2077441,GSE70245,SAMN03792616,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G2.M
+SRR2077442,GSE70245,SAMN03792617,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",S
+SRR2077443,GSE70245,SAMN03792618,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G1.S
+SRR2077444,GSE70245,SAMN03792619,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G2.M
+SRR2077445,GSE70245,SAMN03792620,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G2.M
+SRR2077446,GSE70245,SAMN03792621,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",M.G1
+SRR2077447,GSE70245,SAMN03792622,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",M.G1
+SRR2077448,GSE70245,SAMN03792623,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",M.G1
+SRR2077449,GSE70245,SAMN03792624,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",M.G1
+SRR2077450,GSE70245,SAMN03792625,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",S
+SRR2077451,GSE70245,SAMN03792626,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",M.G1
+SRR2077452,GSE70245,SAMN03792627,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",S
+SRR2077453,GSE70245,SAMN03792628,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G1.S
+SRR2077454,GSE70245,SAMN03792629,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",S
+SRR2077455,GSE70245,SAMN03792630,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",S
+SRR2077456,GSE70245,SAMN03792631,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",S
+SRR2077457,GSE70245,SAMN03792632,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G1.S
+SRR2077458,GSE70245,SAMN03792633,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",S
+SRR2077459,GSE70245,SAMN03792610,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G1.S
+SRR2077460,GSE70245,SAMN03792664,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G2.M
+SRR2077461,GSE70245,SAMN03792665,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G1.S
+SRR2077462,GSE70245,SAMN03792666,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",M.G1
+SRR2077463,GSE70245,SAMN03792667,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G1.S
+SRR2077464,GSE70245,SAMN03792668,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",M.G1
+SRR2077465,GSE70245,SAMN03792669,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G2.M
+SRR2077466,GSE70245,SAMN03792670,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",S
+SRR2077467,GSE70245,SAMN03792671,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G2.M
+SRR2077468,GSE70245,SAMN03792672,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G2.M
+SRR2077469,GSE70245,SAMN03792673,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",M.G1
+SRR2077470,GSE70245,SAMN03792674,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G1.S
+SRR2077471,GSE70245,SAMN03792680,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",S
+SRR2077472,GSE70245,SAMN03792681,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G1.S
+SRR2077473,GSE70245,SAMN03792682,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G2.M
+SRR2077474,GSE70245,SAMN03792683,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",S
+SRR2077475,GSE70245,SAMN03792684,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G1.S
+SRR2077476,GSE70245,SAMN03792675,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G1.S
+SRR2077477,GSE70245,SAMN03792676,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G2
+SRR2077478,GSE70245,SAMN03792677,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G2
+SRR2077479,GSE70245,SAMN03792678,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",S
+SRR2077480,GSE70245,SAMN03792679,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G1.S
+SRR2077481,GSE70245,SAMN03792686,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",S
+SRR2077482,GSE70245,SAMN03792687,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",M.G1
+SRR2077483,GSE70245,SAMN03792688,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",S
+SRR2077484,GSE70245,SAMN03792685,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",S
+SRR2077485,GSE70245,SAMN03792689,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",S
+SRR2077486,GSE70245,SAMN03792690,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G1.S
+SRR2077487,GSE70245,SAMN03792691,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G2.M
+SRR2077488,GSE70245,SAMN03792634,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G2.M
+SRR2077489,GSE70245,SAMN03792635,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G1.S
+SRR2077490,GSE70245,SAMN03792636,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",M.G1
+SRR2077491,GSE70245,SAMN03792637,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G2
+SRR2077492,GSE70245,SAMN03792638,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G2
+SRR2077493,GSE70245,SAMN03792639,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G2.M
+SRR2077494,GSE70245,SAMN03792640,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",M.G1
+SRR2077495,GSE70245,SAMN03792641,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",M.G1
+SRR2077496,GSE70245,SAMN03792642,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",S
+SRR2077497,GSE70245,SAMN03792643,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",M.G1
+SRR2077498,GSE70245,SAMN03792644,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G2.M
+SRR2077499,GSE70245,SAMN03792645,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",M.G1
+SRR2077500,GSE70245,SAMN03792646,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",M.G1
+SRR2077501,GSE70245,SAMN03792647,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G2.M
+SRR2077502,GSE70245,SAMN03792648,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G1.S
+SRR2077503,GSE70245,SAMN03792649,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G1.S
+SRR2077504,GSE70245,SAMN03792650,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",M.G1
+SRR2077505,GSE70245,SAMN03792651,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",M.G1
+SRR2077506,GSE70245,SAMN03792652,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G1.S
+SRR2077507,GSE70245,SAMN03792653,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",M.G1
+SRR2077508,GSE70245,SAMN03792654,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",M.G1
+SRR2077509,GSE70245,SAMN03792655,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",M.G1
+SRR2077510,GSE70245,SAMN03792656,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",S
+SRR2077511,GSE70245,SAMN03792657,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G1.S
+SRR2077512,GSE70245,SAMN03792658,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G1.S
+SRR2077513,GSE70245,SAMN03792659,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",M.G1
+SRR2077514,GSE70245,SAMN03792660,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G2
+SRR2077515,GSE70245,SAMN03792661,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",S
+SRR2077516,GSE70245,SAMN03792662,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",M.G1
+SRR2077517,GSE70245,SAMN03792663,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",S
+SRR2077518,GSE70245,SAMN03792555,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G1.S
+SRR2077519,GSE70245,SAMN03792556,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G1.S
+SRR2077520,GSE70245,SAMN03792557,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",S
+SRR2077521,GSE70245,SAMN03792558,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",S
+SRR2077522,GSE70245,SAMN03792560,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G1.S
+SRR2077523,GSE70245,SAMN03792561,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",S
+SRR2077524,GSE70245,SAMN03792562,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G1.S
+SRR2077525,GSE70245,SAMN03792563,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",S
+SRR2077526,GSE70245,SAMN03792564,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",S
+SRR2077527,GSE70245,SAMN03792565,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",S
+SRR2077528,GSE70245,SAMN03792566,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G2
+SRR2077529,GSE70245,SAMN03792567,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G1.S
+SRR2077530,GSE70245,SAMN03792568,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G2.M
+SRR2077531,GSE70245,SAMN03792569,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G1.S
+SRR2077532,GSE70245,SAMN03792570,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",S
+SRR2077533,GSE70245,SAMN03792571,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",S
+SRR2077534,GSE70245,SAMN03792572,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G1.S
+SRR2077535,GSE70245,SAMN03792573,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",S
+SRR2077536,GSE70245,SAMN03792574,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",S
+SRR2077537,GSE70245,SAMN03792575,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G2
+SRR2077538,GSE70245,SAMN03792576,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G2.M
+SRR2077539,GSE70245,SAMN03792577,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",S
+SRR2077540,GSE70245,SAMN03792578,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G2.M
+SRR2077541,GSE70245,SAMN03792579,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G1.S
+SRR2077542,GSE70245,SAMN03792580,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",S
+SRR2077543,GSE70245,SAMN03792581,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",M.G1
+SRR2077544,GSE70245,SAMN03792582,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",M.G1
+SRR2078210,GSE70245,SAMN03792762,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G2.M
+SRR2078211,GSE70245,SAMN03792763,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G1.S
+SRR2078212,GSE70245,SAMN03792764,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G2.M
+SRR2078213,GSE70245,SAMN03792759,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",M.G1
+SRR2078214,GSE70245,SAMN03792760,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",M.G1
+SRR2078215,GSE70245,SAMN03792761,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",S
+SRR2078216,GSE70245,SAMN03792765,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G2.M
+SRR2078217,GSE70245,SAMN03792766,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",S
+SRR2078218,GSE70245,SAMN03792767,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G1.S
+SRR2078219,GSE70245,SAMN03792768,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G1.S
+SRR2078220,GSE70245,SAMN03792769,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",M.G1
+SRR2078221,GSE70245,SAMN03792770,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",S
+SRR2078222,GSE70245,SAMN03792771,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G1.S
+SRR2078223,GSE70245,SAMN03792772,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",S
+SRR2078224,GSE70245,SAMN03792773,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",M.G1
+SRR2078225,GSE70245,SAMN03792774,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G1.S
+SRR2078226,GSE70245,SAMN03792775,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G1.S
+SRR2078227,GSE70245,SAMN03792776,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",M.G1
+SRR2078228,GSE70245,SAMN03792777,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G2.M
+SRR2078229,GSE70245,SAMN03792778,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",S
+SRR2078230,GSE70245,SAMN03792779,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G1.S
+SRR2078231,GSE70245,SAMN03792780,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",S
+SRR2078232,GSE70245,SAMN03792781,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G1.S
+SRR2078233,GSE70245,SAMN03792782,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",S
+SRR2078234,GSE70245,SAMN03792724,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G2.M
+SRR2078235,GSE70245,SAMN03792730,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",S
+SRR2078236,GSE70245,SAMN03792731,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G1.S
+SRR2078237,GSE70245,SAMN03792732,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",M.G1
+SRR2078238,GSE70245,SAMN03792725,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",M.G1
+SRR2078239,GSE70245,SAMN03792726,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G1.S
+SRR2078240,GSE70245,SAMN03792727,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",S
+SRR2078241,GSE70245,SAMN03792728,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",S
+SRR2078242,GSE70245,SAMN03792729,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G2.M
+SRR2078243,GSE70245,SAMN03792733,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G1.S
+SRR2078244,GSE70245,SAMN03792734,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G1.S
+SRR2078245,GSE70245,SAMN03792735,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G2.M
+SRR2078246,GSE70245,SAMN03792736,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",S
+SRR2078247,GSE70245,SAMN03792737,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G2.M
+SRR2078248,GSE70245,SAMN03792738,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",S
+SRR2078249,GSE70245,SAMN03792739,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",S
+SRR2078250,GSE70245,SAMN03792740,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G1.S
+SRR2078251,GSE70245,SAMN03792741,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G1.S
+SRR2078252,GSE70245,SAMN03792742,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",S
+SRR2078253,GSE70245,SAMN03792743,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",S
+SRR2078254,GSE70245,SAMN03792744,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G1.S
+SRR2078255,GSE70245,SAMN03792745,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G2.M
+SRR2078256,GSE70245,SAMN03792746,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G2.M
+SRR2078257,GSE70245,SAMN03792747,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G2.M
+SRR2078258,GSE70245,SAMN03792748,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G2.M
+SRR2078259,GSE70245,SAMN03792749,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G2.M
+SRR2078260,GSE70245,SAMN03792750,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G1.S
+SRR2078261,GSE70245,SAMN03792751,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",S
+SRR2078262,GSE70245,SAMN03792752,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G1.S
+SRR2078263,GSE70245,SAMN03792753,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G2
+SRR2078264,GSE70245,SAMN03792783,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G1.S
+SRR2078265,GSE70245,SAMN03792784,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",S
+SRR2078266,GSE70245,SAMN03792785,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G1.S
+SRR2078267,GSE70245,SAMN03792786,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G2.M
+SRR2078268,GSE70245,SAMN03792787,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G1.S
+SRR2078269,GSE70245,SAMN03792788,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",M.G1
+SRR2078270,GSE70245,SAMN03792789,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",S
+SRR2078271,GSE70245,SAMN03792790,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",S
+SRR2078272,GSE70245,SAMN03792791,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",S
+SRR2079134,GSE70245,SAMN03792308,"Mus musculus","Bone marrow",Adult,"Granulocyte Macrophage Progenitor (GMP)","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",S
+SRR2079135,GSE70245,SAMN03792309,"Mus musculus","Bone marrow",Adult,"Granulocyte Macrophage Progenitor (GMP)","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",S
+SRR2079136,GSE70245,SAMN03792310,"Mus musculus","Bone marrow",Adult,"Granulocyte Macrophage Progenitor (GMP)","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",S
+SRR2079137,GSE70245,SAMN03792311,"Mus musculus","Bone marrow",Adult,"Granulocyte Macrophage Progenitor (GMP)","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",S
+SRR2079138,GSE70245,SAMN03792312,"Mus musculus","Bone marrow",Adult,"Granulocyte Macrophage Progenitor (GMP)","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",S
+SRR2079139,GSE70245,SAMN03792314,"Mus musculus","Bone marrow",Adult,"Granulocyte Macrophage Progenitor (GMP)","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",S
+SRR2079140,GSE70245,SAMN03792315,"Mus musculus","Bone marrow",Adult,"Granulocyte Macrophage Progenitor (GMP)","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",S
+SRR2079141,GSE70245,SAMN03792316,"Mus musculus","Bone marrow",Adult,"Granulocyte Macrophage Progenitor (GMP)","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",S
+SRR2079142,GSE70245,SAMN03792317,"Mus musculus","Bone marrow",Adult,"Granulocyte Macrophage Progenitor (GMP)","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",S
+SRR2079143,GSE70245,SAMN03792318,"Mus musculus","Bone marrow",Adult,"Granulocyte Macrophage Progenitor (GMP)","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",S
+SRR2079144,GSE70245,SAMN03792319,"Mus musculus","Bone marrow",Adult,"Lineage-negative Sca1-positive c-Kit-positive (LSK)","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"CL:0001008 [Kit and Sca1-positive hematopoietic stem cell]",M.G1
+SRR2079145,GSE70245,SAMN03792320,"Mus musculus","Bone marrow",Adult,"Common Myeloid Progenitor (CMP)","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"CL:0000049 [Common myeloid progenitor]",M.G1
+SRR2079146,GSE70245,SAMN03792321,"Mus musculus","Bone marrow",Adult,"Granulocyte Macrophage Progenitor (GMP)","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",M.G1
+SRR2079147,GSE70245,SAMN03792322,"Mus musculus","Bone marrow",Adult,"Granulocyte Macrophage Progenitor (GMP)","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",M.G1
+SRR2079148,GSE70245,SAMN03792323,"Mus musculus","Bone marrow",Adult,"Granulocyte Macrophage Progenitor (GMP)","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",M.G1
+SRR2079149,GSE70245,SAMN03792324,"Mus musculus","Bone marrow",Adult,"CMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",M.G1
+SRR2079150,GSE70245,SAMN03792325,"Mus musculus","Bone marrow",Adult,"CMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G1.S
+SRR2079151,GSE70245,SAMN03792326,"Mus musculus","Bone marrow",Adult,"CMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G1.S
+SRR2079152,GSE70245,SAMN03792327,"Mus musculus","Bone marrow",Adult,"CMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G1.S
+SRR2079153,GSE70245,SAMN03792328,"Mus musculus","Bone marrow",Adult,"CMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",M.G1
+SRR2079154,GSE70245,SAMN03792329,"Mus musculus","Bone marrow",Adult,"CMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",S
+SRR2079155,GSE70245,SAMN03792330,"Mus musculus","Bone marrow",Adult,"CMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",M.G1
+SRR2079156,GSE70245,SAMN03792331,"Mus musculus","Bone marrow",Adult,"CMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G1.S
+SRR2079157,GSE70245,SAMN03792332,"Mus musculus","Bone marrow",Adult,"CMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G2.M
+SRR2079158,GSE70245,SAMN03792333,"Mus musculus","Bone marrow",Adult,"CMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",M.G1
+SRR2079159,GSE70245,SAMN03792334,"Mus musculus","Bone marrow",Adult,"CMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",S
+SRR2079160,GSE70245,SAMN03792335,"Mus musculus","Bone marrow",Adult,"CMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",S
+SRR2079161,GSE70245,SAMN03792336,"Mus musculus","Bone marrow",Adult,"CMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G2.M
+SRR2079162,GSE70245,SAMN03792338,"Mus musculus","Bone marrow",Adult,"CMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G2
+SRR2079163,GSE70245,SAMN03792339,"Mus musculus","Bone marrow",Adult,"CMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G1.S
+SRR2079164,GSE70245,SAMN03792340,"Mus musculus","Bone marrow",Adult,"CMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",M.G1
+SRR2079165,GSE70245,SAMN03792341,"Mus musculus","Bone marrow",Adult,"CMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",M.G1
+SRR2079166,GSE70245,SAMN03792342,"Mus musculus","Bone marrow",Adult,"CMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",M.G1
+SRR2079167,GSE70245,SAMN03792343,"Mus musculus","Bone marrow",Adult,"CMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",M.G1
+SRR2079168,GSE70245,SAMN03792344,"Mus musculus","Bone marrow",Adult,"CMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",M.G1
+SRR2079169,GSE70245,SAMN03792345,"Mus musculus","Bone marrow",Adult,"CMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",M.G1
+SRR2079170,GSE70245,SAMN03792346,"Mus musculus","Bone marrow",Adult,"CMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",M.G1
+SRR2079171,GSE70245,SAMN03792347,"Mus musculus","Bone marrow",Adult,"CMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",M.G1
+SRR2079172,GSE70245,SAMN03792348,"Mus musculus","Bone marrow",Adult,"CMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G2
+SRR2079173,GSE70245,SAMN03792349,"Mus musculus","Bone marrow",Adult,"CMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",M.G1
+SRR2079174,GSE70245,SAMN03792350,"Mus musculus","Bone marrow",Adult,"CMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",M.G1
+SRR2079175,GSE70245,SAMN03792351,"Mus musculus","Bone marrow",Adult,"CMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",S
+SRR2079176,GSE70245,SAMN03792352,"Mus musculus","Bone marrow",Adult,"CMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G2.M
+SRR2079177,GSE70245,SAMN03792353,"Mus musculus","Bone marrow",Adult,"CMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",M.G1
+SRR2079178,GSE70245,SAMN03792354,"Mus musculus","Bone marrow",Adult,"CMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",M.G1
+SRR2079179,GSE70245,SAMN03792355,"Mus musculus","Bone marrow",Adult,"CMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G1.S
+SRR2079180,GSE70245,SAMN03792356,"Mus musculus","Bone marrow",Adult,"CMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",M.G1
+SRR2079181,GSE70245,SAMN03792357,"Mus musculus","Bone marrow",Adult,"CMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G1.S
+SRR2079182,GSE70245,SAMN03792358,"Mus musculus","Bone marrow",Adult,"CMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",S
+SRR2079183,GSE70245,SAMN03792359,"Mus musculus","Bone marrow",Adult,"CMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G2.M
+SRR2079184,GSE70245,SAMN03792360,"Mus musculus","Bone marrow",Adult,"CMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",S
+SRR2079185,GSE70245,SAMN03792361,"Mus musculus","Bone marrow",Adult,"CMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G1.S
+SRR2079186,GSE70245,SAMN03792337,"Mus musculus","Bone marrow",Adult,"CMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",M.G1
+SRR2079187,GSE70245,SAMN03792390,"Mus musculus","Bone marrow",Adult,"CMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G1.S
+SRR2079188,GSE70245,SAMN03792391,"Mus musculus","Bone marrow",Adult,"CMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",S
+SRR2079189,GSE70245,SAMN03792392,"Mus musculus","Bone marrow",Adult,"CMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",M.G1
+SRR2079190,GSE70245,SAMN03792393,"Mus musculus","Bone marrow",Adult,"CMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G1.S
+SRR2079191,GSE70245,SAMN03792394,"Mus musculus","Bone marrow",Adult,"CMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",M.G1
+SRR2079192,GSE70245,SAMN03792395,"Mus musculus","Bone marrow",Adult,"CMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",M.G1
+SRR2079193,GSE70245,SAMN03792396,"Mus musculus","Bone marrow",Adult,"CMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",S
+SRR2079194,GSE70245,SAMN03792397,"Mus musculus","Bone marrow",Adult,"CMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",M.G1
+SRR2079195,GSE70245,SAMN03792398,"Mus musculus","Bone marrow",Adult,"CMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",S
+SRR2079196,GSE70245,SAMN03792399,"Mus musculus","Bone marrow",Adult,"CMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G2
+SRR2079197,GSE70245,SAMN03792400,"Mus musculus","Bone marrow",Adult,"CMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",S
+SRR2079198,GSE70245,SAMN03792401,"Mus musculus","Bone marrow",Adult,"CMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G2
+SRR2079199,GSE70245,SAMN03792402,"Mus musculus","Bone marrow",Adult,"CMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G1.S
+SRR2079200,GSE70245,SAMN03792403,"Mus musculus","Bone marrow",Adult,"CMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",S
+SRR2079201,GSE70245,SAMN03792404,"Mus musculus","Bone marrow",Adult,"CMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G2
+SRR2079202,GSE70245,SAMN03792405,"Mus musculus","Bone marrow",Adult,"CMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",M.G1
+SRR2079203,GSE70245,SAMN03792406,"Mus musculus","Bone marrow",Adult,"CMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",M.G1
+SRR2079204,GSE70245,SAMN03792407,"Mus musculus","Bone marrow",Adult,"CMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",M.G1
+SRR2079205,GSE70245,SAMN03792408,"Mus musculus","Bone marrow",Adult,"CMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",M.G1
+SRR2079206,GSE70245,SAMN03792409,"Mus musculus","Bone marrow",Adult,"CMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G2
+SRR2079207,GSE70245,SAMN03792410,"Mus musculus","Bone marrow",Adult,"CMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",M.G1
+SRR2079208,GSE70245,SAMN03792411,"Mus musculus","Bone marrow",Adult,"CMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",S
+SRR2079209,GSE70245,SAMN03792412,"Mus musculus","Bone marrow",Adult,"CMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",M.G1
+SRR2079210,GSE70245,SAMN03792413,"Mus musculus","Bone marrow",Adult,"CMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",S
+SRR2079211,GSE70245,SAMN03792414,"Mus musculus","Bone marrow",Adult,"CMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G2
+SRR2079212,GSE70245,SAMN03792419,"Mus musculus","Bone marrow",Adult,"CMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G2.M
+SRR2079213,GSE70245,SAMN03792362,"Mus musculus","Bone marrow",Adult,"CMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",M.G1
+SRR2079214,GSE70245,SAMN03792363,"Mus musculus","Bone marrow",Adult,"CMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",M.G1
+SRR2079215,GSE70245,SAMN03792364,"Mus musculus","Bone marrow",Adult,"CMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",M.G1
+SRR2079216,GSE70245,SAMN03792365,"Mus musculus","Bone marrow",Adult,"CMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",M.G1
+SRR2079217,GSE70245,SAMN03792366,"Mus musculus","Bone marrow",Adult,"CMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G1.S
+SRR2079218,GSE70245,SAMN03792415,"Mus musculus","Bone marrow",Adult,"CMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",M.G1
+SRR2079219,GSE70245,SAMN03792416,"Mus musculus","Bone marrow",Adult,"CMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G1.S
+SRR2079220,GSE70245,SAMN03792417,"Mus musculus","Bone marrow",Adult,"CMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G2.M
+SRR2079221,GSE70245,SAMN03792418,"Mus musculus","Bone marrow",Adult,"CMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",M.G1
+SRR2079222,GSE70245,SAMN03792367,"Mus musculus","Bone marrow",Adult,"CMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",S
+SRR2079223,GSE70245,SAMN03792368,"Mus musculus","Bone marrow",Adult,"CMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G2
+SRR2079224,GSE70245,SAMN03792369,"Mus musculus","Bone marrow",Adult,"CMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",M.G1
+SRR2079225,GSE70245,SAMN03792370,"Mus musculus","Bone marrow",Adult,"CMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",M.G1
+SRR2079226,GSE70245,SAMN03792371,"Mus musculus","Bone marrow",Adult,"CMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",M.G1
+SRR2079227,GSE70245,SAMN03792372,"Mus musculus","Bone marrow",Adult,"CMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",M.G1
+SRR2079228,GSE70245,SAMN03792373,"Mus musculus","Bone marrow",Adult,"CMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",M.G1
+SRR2079229,GSE70245,SAMN03792374,"Mus musculus","Bone marrow",Adult,"CMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G1.S
+SRR2079230,GSE70245,SAMN03792375,"Mus musculus","Bone marrow",Adult,"CMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G2.M
+SRR2079231,GSE70245,SAMN03792376,"Mus musculus","Bone marrow",Adult,"CMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G1.S
+SRR2079232,GSE70245,SAMN03792377,"Mus musculus","Bone marrow",Adult,"CMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G1.S
+SRR2079233,GSE70245,SAMN03792378,"Mus musculus","Bone marrow",Adult,"CMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",M.G1
+SRR2079234,GSE70245,SAMN03792379,"Mus musculus","Bone marrow",Adult,"CMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G2
+SRR2079235,GSE70245,SAMN03792380,"Mus musculus","Bone marrow",Adult,"CMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G1.S
+SRR2079236,GSE70245,SAMN03792381,"Mus musculus","Bone marrow",Adult,"CMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G1.S
+SRR2079237,GSE70245,SAMN03792382,"Mus musculus","Bone marrow",Adult,"CMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G1.S
+SRR2079238,GSE70245,SAMN03792383,"Mus musculus","Bone marrow",Adult,"CMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",M.G1
+SRR2079239,GSE70245,SAMN03792384,"Mus musculus","Bone marrow",Adult,"CMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G2
+SRR2079240,GSE70245,SAMN03792385,"Mus musculus","Bone marrow",Adult,"CMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",M.G1
+SRR2079241,GSE70245,SAMN03792386,"Mus musculus","Bone marrow",Adult,"CMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",M.G1
+SRR2079242,GSE70245,SAMN03792387,"Mus musculus","Bone marrow",Adult,"CMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G2.M
+SRR2079243,GSE70245,SAMN03792388,"Mus musculus","Bone marrow",Adult,"CMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",M.G1
+SRR2079244,GSE70245,SAMN03792389,"Mus musculus","Bone marrow",Adult,"CMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G1.S
+SRR2079247,GSE70245,SAMN03792692,"Mus musculus","Bone marrow",Adult,"Irf8-GFP dim Csf1r- GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",M.G1
+SRR2079248,GSE70245,SAMN03792701,"Mus musculus","Bone marrow",Adult,"Irf8-GFP dim Csf1r- GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",M.G1
+SRR2079249,GSE70245,SAMN03792693,"Mus musculus","Bone marrow",Adult,"Irf8-GFP dim Csf1r- GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G2
+SRR2079250,GSE70245,SAMN03792694,"Mus musculus","Bone marrow",Adult,"Irf8-GFP dim Csf1r- GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G2
+SRR2079251,GSE70245,SAMN03792695,"Mus musculus","Bone marrow",Adult,"Irf8-GFP dim Csf1r- GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",M.G1
+SRR2079252,GSE70245,SAMN03792696,"Mus musculus","Bone marrow",Adult,"Irf8-GFP dim Csf1r- GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",M.G1
+SRR2079253,GSE70245,SAMN03792697,"Mus musculus","Bone marrow",Adult,"Irf8-GFP dim Csf1r- GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",S
+SRR2079254,GSE70245,SAMN03792698,"Mus musculus","Bone marrow",Adult,"Irf8-GFP dim Csf1r- GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",S
+SRR2079255,GSE70245,SAMN03792699,"Mus musculus","Bone marrow",Adult,"Irf8-GFP dim Csf1r- GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",M.G1
+SRR2079256,GSE70245,SAMN03792700,"Mus musculus","Bone marrow",Adult,"Irf8-GFP dim Csf1r- GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",M.G1
+SRR2079257,GSE70245,SAMN03792709,"Mus musculus","Bone marrow",Adult,"Irf8-GFP dim Csf1r- GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G1.S
+SRR2079258,GSE70245,SAMN03792710,"Mus musculus","Bone marrow",Adult,"Irf8-GFP dim Csf1r- GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G2
+SRR2079259,GSE70245,SAMN03792711,"Mus musculus","Bone marrow",Adult,"Irf8-GFP dim Csf1r- GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",S
+SRR2079260,GSE70245,SAMN03792708,"Mus musculus","Bone marrow",Adult,"Irf8-GFP dim Csf1r- GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",M.G1
+SRR2079261,GSE70245,SAMN03792702,"Mus musculus","Bone marrow",Adult,"Irf8-GFP dim Csf1r- GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",M.G1
+SRR2079262,GSE70245,SAMN03792703,"Mus musculus","Bone marrow",Adult,"Irf8-GFP dim Csf1r- GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",M.G1
+SRR2079263,GSE70245,SAMN03792704,"Mus musculus","Bone marrow",Adult,"Irf8-GFP dim Csf1r- GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G2
+SRR2079264,GSE70245,SAMN03792705,"Mus musculus","Bone marrow",Adult,"Irf8-GFP dim Csf1r- GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",M.G1
+SRR2079265,GSE70245,SAMN03792706,"Mus musculus","Bone marrow",Adult,"Irf8-GFP dim Csf1r- GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",S
+SRR2079266,GSE70245,SAMN03792707,"Mus musculus","Bone marrow",Adult,"Irf8-GFP dim Csf1r- GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",S
+SRR2079267,GSE70245,SAMN03792712,"Mus musculus","Bone marrow",Adult,"Irf8-GFP dim Csf1r- GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",S
+SRR2079268,GSE70245,SAMN03792713,"Mus musculus","Bone marrow",Adult,"Irf8-GFP dim Csf1r- GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G1.S
+SRR2079269,GSE70245,SAMN03792714,"Mus musculus","Bone marrow",Adult,"Irf8-GFP dim Csf1r- GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",S
+SRR2079270,GSE70245,SAMN03792715,"Mus musculus","Bone marrow",Adult,"Irf8-GFP dim Csf1r- GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",M.G1
+SRR2079271,GSE70245,SAMN03792716,"Mus musculus","Bone marrow",Adult,"Irf8-GFP dim Csf1r- GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",S
+SRR2079272,GSE70245,SAMN03792717,"Mus musculus","Bone marrow",Adult,"Irf8-GFP dim Csf1r- GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G1.S
+SRR2079273,GSE70245,SAMN03792718,"Mus musculus","Bone marrow",Adult,"Irf8-GFP dim Csf1r- GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G1.S
+SRR2079274,GSE70245,SAMN03792719,"Mus musculus","Bone marrow",Adult,"Irf8-GFP dim Csf1r- GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",M.G1
+SRR2079275,GSE70245,SAMN03792720,"Mus musculus","Bone marrow",Adult,"Irf8-GFP dim Csf1r- GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G2
+SRR2079276,GSE70245,SAMN03792721,"Mus musculus","Bone marrow",Adult,"Irf8-GFP dim Csf1r- GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",M.G1
+SRR2079277,GSE70245,SAMN03792722,"Mus musculus","Bone marrow",Adult,"Irf8-GFP dim Csf1r- GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",S
+SRR2079278,GSE70245,SAMN03792723,"Mus musculus","Bone marrow",Adult,"Irf8-GFP dim Csf1r- GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",S
+SRR2079279,GSE70245,SAMN03792754,"Mus musculus","Bone marrow",Adult,"Irf8-GFP dim Csf1r- GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G2
+SRR2079280,GSE70245,SAMN03792755,"Mus musculus","Bone marrow",Adult,"Irf8-GFP dim Csf1r- GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",S
+SRR2079281,GSE70245,SAMN03792756,"Mus musculus","Bone marrow",Adult,"Irf8-GFP dim Csf1r- GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",S
+SRR2079282,GSE70245,SAMN03792757,"Mus musculus","Bone marrow",Adult,"Irf8-GFP dim Csf1r- GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",S
+SRR2079283,GSE70245,SAMN03792758,"Mus musculus","Bone marrow",Adult,"Irf8-GFP dim Csf1r- GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G1.S
+SRR3203937,GSE70245,SAMN04532110,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"CL:0000763 [Myeloid cell]",S
+SRR3203938,GSE70245,SAMN04532111,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"CL:0000763 [Myeloid cell]",S
+SRR3203939,GSE70245,SAMN04532112,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"CL:0000763 [Myeloid cell]",S
+SRR3203940,GSE70245,SAMN04532113,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"CL:0000763 [Myeloid cell]",S
+SRR3203941,GSE70245,SAMN04532114,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"CL:0000763 [Myeloid cell]",S
+SRR3203942,GSE70245,SAMN04532115,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"CL:0000763 [Myeloid cell]",S
+SRR3203943,GSE70245,SAMN04532116,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"CL:0000763 [Myeloid cell]",S
+SRR3203944,GSE70245,SAMN04532117,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"CL:0000763 [Myeloid cell]",S
+SRR3203945,GSE70245,SAMN04532118,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"CL:0000763 [Myeloid cell]",S
+SRR3203946,GSE70245,SAMN04532119,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"CL:0000763 [Myeloid cell]",S
+SRR3203947,GSE70245,SAMN04532120,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"CL:0000763 [Myeloid cell]",S
+SRR3203948,GSE70245,SAMN04532121,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"CL:0000763 [Myeloid cell]",S
+SRR3203949,GSE70245,SAMN04532122,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",S
+SRR3203950,GSE70245,SAMN04532123,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",S
+SRR3203951,GSE70245,SAMN04532124,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",S
+SRR3203952,GSE70245,SAMN04532125,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",S
+SRR3203953,GSE70245,SAMN04532126,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",S
+SRR3203954,GSE70245,SAMN04532127,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",S
+SRR3203955,GSE70245,SAMN04532073,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",S
+SRR3203956,GSE70245,SAMN04532074,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",S
+SRR3203957,GSE70245,SAMN04532075,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",S
+SRR3203958,GSE70245,SAMN04532076,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",S
+SRR3203959,GSE70245,SAMN04532077,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",S
+SRR3203960,GSE70245,SAMN04532078,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",S
+SRR3203961,GSE70245,SAMN04532079,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G2.M
+SRR3203962,GSE70245,SAMN04532080,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",S
+SRR3203963,GSE70245,SAMN04532081,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G2.M
+SRR3203964,GSE70245,SAMN04532082,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",S
+SRR3203965,GSE70245,SAMN04532083,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G2
+SRR3203966,GSE70245,SAMN04532084,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",S
+SRR3203967,GSE70245,SAMN04532085,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",S
+SRR3203968,GSE70245,SAMN04532086,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",G1.S
+SRR3203969,GSE70245,SAMN04532087,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",S
+SRR3203970,GSE70245,SAMN04532088,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",S
+SRR3203971,GSE70245,SAMN04532089,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",S
+SRR3203972,GSE70245,SAMN04532090,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",S
+SRR3203973,GSE70245,SAMN04532091,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",S
+SRR3203974,GSE70245,SAMN04532092,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",S
+SRR3203975,GSE70245,SAMN04532093,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",S
+SRR3203976,GSE70245,SAMN04532094,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",S
+SRR3203977,GSE70245,SAMN04532095,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",S
+SRR3203978,GSE70245,SAMN04532096,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",S
+SRR3203979,GSE70245,SAMN04532097,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",S
+SRR3203980,GSE70245,SAMN04532098,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"OMIT:0026108 [Granulocyte-Macrophage Progenitor Cells]",S
+SRR3203981,GSE70245,SAMN04532099,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"CL:0000763 [Myeloid cell]",G2.M
+SRR3203982,GSE70245,SAMN04532100,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"CL:0000763 [Myeloid cell]",S
+SRR3203983,GSE70245,SAMN04532101,"Mus musculus","Bone marrow",Adult,"GMP Progenitors","Illumina HiSeq 2500",SMARTer,RNA-Seq,Paired-end,"CL:0000763 [Myeloid cell]",S
